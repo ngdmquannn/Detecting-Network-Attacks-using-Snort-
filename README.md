@@ -13,6 +13,12 @@ The work demonstrates how these areas combine to design, configure, and validate
 
 ---
 
+## 📂 Repository Contents
+- **`24560015_Report.pdf`** — Complete report including theory, lab setup, configurations, rules, and results.  
+- **`README.md`** — This summary overview.
+
+---
+
 ## 🖥️ VM Setup
 The lab was built using **Kali Linux virtual machines** with different roles and NIC configurations.
 
@@ -75,10 +81,11 @@ The lab was built using **Kali Linux virtual machines** with different roles and
 
 ---
 
-## 📂 Repository Contents
-- **`24560015_Report.pdf`** — Complete report including theory, lab setup, configurations, rules, and results.  
-- **Demo Videos** — Two recordings showing the attacks and Snort detections in real time.  
-- **`README.md`** — This summary overview.  
+## 🎥 Demo Videos
+I recorded two demonstration videos showing the attack simulations and Snort detections.  
+They can be accessed here:  
+
+👉 [Demo Videos (Google Drive)](https://drive.google.com/drive/folders/1GMwm-d-gdRpfalLNBpXmnTYaWjhEvcgP?usp=sharing)  
 
 ---
 
